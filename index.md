@@ -3,4 +3,4 @@
 ## Week 1
 [Here](files/IE48A.Ass.html) is my RMarkdown Homework.
 ## Week 2
-[Here](files/Electricity Market Prices.Assignment.html) is my Assignment 2: Electricity Market Prices.
+[Here](files/Electricity.Assignment.html) is my Assignment 2: Electricity Market Prices.
