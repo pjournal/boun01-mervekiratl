@@ -5,4 +5,4 @@
 ## Week 2
 [Here](files/Electricity_Market_Prices.html) is my Assignment 2: Electricity Market Prices.
 ## Week 3
-[Here](files/Assignment3.html) is my Assignment 3: Dimonds Price Estimation.
+[Here](files/Assingnment3.html) is my Assignment 3: Dimonds Price Estimation.
